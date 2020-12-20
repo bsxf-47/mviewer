@@ -7,4 +7,7 @@ Install Python 3.6.1 or later and make sure to check the "Add Python to your PAT
 
 ## Usage
 
-Drag the `.mview` file onto the batch script and watch the magic happen, it will prompt you to press any key to continue between steps, if you want an even faster experience you can remove the calls to `pause` in the batch script
+Drag the `.mview` file onto the batch script and watch the magic happen.
+
+Alernatively you can invoke the script from the command line:
+`extract.bat source_file`
